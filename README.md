@@ -114,5 +114,4 @@
 Файлы:
 
 - `docs/booking_process_description.md`
-- `diagrams/bpmn_booking_process.drawio`
-- `diagrams/bpmn_booking_process.png`
+- `diagrams/bpmn_booking_process.drawio.png`
