@@ -115,3 +115,37 @@
 
 - `docs/booking_process_description.md`
 - `diagrams/bpmn_booking_process.drawio.png`
+
+## UML-диаграммы
+
+Для описания системных сценариев подготовлены UML-диаграммы.
+
+### Use Case Diagram
+
+Use Case Diagram показывает акторов системы и основные действия, которые они могут выполнять.
+
+Акторы:
+
+- сотрудник;
+- администратор;
+- система уведомлений.
+
+Файл:
+
+- `docs/uml_use_case.md`
+
+### Sequence Diagram
+
+Sequence Diagram описывает сценарий создания бронирования переговорной комнаты.
+
+Диаграмма показывает взаимодействие между:
+
+- сотрудником;
+- frontend;
+- backend/API;
+- database;
+- системой уведомлений.
+
+Файл:
+
+- `docs/sequence_booking.md`
